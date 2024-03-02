@@ -1,3 +1,6 @@
+# Achmad Rizqy Pranata - 2209116086
+# Program CRUD Pembelian Game Digital (Steam) menggunakan Struktur Data Linked List (Single)
+
 class Node:
     def __init__(self, id_game, judul, genre, harga, tipe):
         self.id_game = id_game
